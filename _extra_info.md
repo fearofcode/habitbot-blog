@@ -1,6 +1,6 @@
 ---
 blog_root: /blog_posts
-site_title: Habitbot
+site_title: Habitbot Blog
 
 ---
 
