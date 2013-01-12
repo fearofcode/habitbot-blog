@@ -1,7 +1,7 @@
 title: A first try at responsive layouts
 date: 2013-01-11
 
-<img src="http://i.imgur.com/Nw446.png">
+<img src="http://i.imgur.com/b4GHo.png">
 
 A first try at responsive layouts went live today.
 
