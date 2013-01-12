@@ -11,6 +11,8 @@ If you want to adjust the timezone, you can do so at any time and it should do t
 
 <img src="http://i.imgur.com/wXo6b.png">
 
+Due to how dates are stored, you will have to recheck off any goals you've completed for that day.
+
 Habitbot should have shipped with this, so this is partly a bug fix.
 
 Implementing this required significant internal changes to how dates are handled. If you have any problems, please tweet at me at <a href="http://www.twitter.com/fearofcode">@fearofcode</a>.
